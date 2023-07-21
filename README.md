@@ -47,6 +47,7 @@
 |Open<br> | | |/a/<br> |
  - writing letters using {a} {i} {u} {e} {é} and {o} is pure phonetic writing.
  - the writing of letters other than {a} {i} {u} {e} {é} and {o} is phonetic with special conditions.
+ 
 |Sound (in IPA) |Letter |English equivalent |Indonesia equivalent |
 |---|---|---|---|
 |/a/<br> |Aa Áá Ää<br> |A as in fAther<br> |A as in Aku<br> |
