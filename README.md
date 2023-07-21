@@ -82,6 +82,7 @@ Corsa has 7 word classes + 1 additional class. where each word class has a funct
 |Preposition and <br>post-position.<br>A.K.A Adpositions<br> |express spatial or temporal relationships between words (such as location or part of/purpose of something)<br> |
 |Conjunction<br> |words that connect sentences or ideas<br> |
 |Interjection (additional)<br> |a word that has a meaning beyond its original meaning with the function of expressing something else.<br> |
+
 pronouns in this class refer to nouns as the subject or the object in the sentence.
 
 |part of the sentence |word classes that can exist in groups |
