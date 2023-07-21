@@ -91,6 +91,7 @@ pronouns in this class refer to nouns as the subject or the object in the senten
 |Verb<br> |Noun (if done in the trait of the Noun)<br>Verb<br>Adjective (must come with adverbs)<br>Conjunction<br> |
 |Object<br> |Noun<br>Pronoun<br>Adjective (come with Noun)<br>Interjection<br> |
 |Etc<br> |another word that provides additional information, usually a time/place descriptor, or an adverb.<br> |
+
 In theory, Conjunctions and Adpositions can be between or across word groups depending on the information in the sentence.
 
 ## Interrogative
