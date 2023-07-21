@@ -16,9 +16,9 @@
 |Fricative<br> | |f<br> |s z<br> | | |
 |Trill<br> | | |r<br> | | |
 |Lateral approximant<br> | | |l<br> | | |
- - the /f/ sound in speech can swap to a soft /p/ or /v/ depending on the accent or dialect of the speaker
- - A soft /p/ sound can become /f/, but a hard /f/ cannot become /p/.
- - The sounds /s/~/z/ and /k/~/g/ can be exchanged with each other because of the emphasis in the speech.
+ - the `/f/` sound in speech can swap to a soft `/p/` or `/v/` depending on the accent or dialect of the speaker
+ - A soft `/p/` sound can become `/f/`, but a hard `/f/` cannot become `/p/`.
+ - The sounds `/s/~/z/` and `/k/~/g/` can be exchanged with each other because of the emphasis in the speech.
  
 |Sound (in IPA) |Letter |English equivalent |Indonesia equivalent |
 |---|---|---|---|
