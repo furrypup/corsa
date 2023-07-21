@@ -19,6 +19,7 @@
  - the /f/ sound in speech can swap to a soft /p/ or /v/ depending on the accent or dialect of the speaker
  - A soft /p/ sound can become /f/, but a hard /f/ cannot become /p/.
  - The sounds /s/~/z/ and /k/~/g/ can be exchanged with each other because of the emphasis in the speech.
+ 
 |Sound (in IPA) |Letter |English equivalent |Indonesia equivalent |
 |---|---|---|---|
 |/b/<br> |Bb<br> |b as in bed<br> |b as in Bukit<br> |
