@@ -127,12 +127,14 @@ If the pronoun uses a name, then the noun after it belongs to that name in the c
 |Second person<br> |Singular<br>Plural<br> |Man (You (M))<br>Liman (You (F))<br>*Laren (you (N))<br>Krassa (You all)<br> |Klega Man (yourself (M))<br>Klega Liman (yourself (F))<br>(not exist)<br>Klega Krassa (yoursel(ves))<br> |-ás / -äs (your(s))<br>-ás / -äs (Your(s))<br>-ál / -äl<br>-ása / -äsa (you all(s))<br> |
 |Third person<br> |Singular<br>Plural<br> |Falen (he/him)<br>Kalen (she/her)<br>*Laren (it/it)<br>Marsa (they/them)<br> |Klega Falen (Himself)<br>Klega Kalen (Herself)<br>Klega Laren (Itself)<br>Klega (Marsa)<br> |-ál / -äl<br>-ál / -äl<br>-ál / -äl<br>-ála / -äla<br> |
 |exceptions<br> |Singular<br>Plural<br> |{name}<br>{names)<br> |Klega {Name}<br>Klega {Names}<br> |{Name} + {noun}<br>{Names} + {noun}<br> |
+
 The pronoun "Laren" is a special pronoun where its usage depends on the condition and type of listener/recipient.
 
 |Type |Usage |
 |---|---|
 |“Laren” as Second person<br> |when 1st's don't know who 2nd's is<br>when the recipient is unknown to the 1st's (e.g. communication without meeting in person a.k.a Online)<br>when it does not specify who it is for (e.g. used in advertisements)<br>when used without regard to the recipient/listener/reader (e.g. in a procedure text or flowchart)<br> |
 |“Laren” as Third person<br> |when 1st's don't know who 3rd's is<br>when referred to the group as a whole (e.g. to an agency or organization)<br>when pointed to not to the Subject (e.g. when what is meant is an object)<br> |
+
 Pronouns in Corsa have a system called "Targeted Pronoun", which is a combination of Ablative case (coming from something) and Allative case (coming to something) and must have agreement with the Noun after it.
 
 The basic formula to create Targeted Pronouns is with
