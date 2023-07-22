@@ -1,4 +1,4 @@
-# Tacarsa Corsa (Ra Eng)
+# Tacarsa Corsa (In English)
 
 ---
 
@@ -48,14 +48,14 @@
  - writing letters using {a} {i} {u} {e} {é} and {o} is pure phonetic writing.
  - the writing of letters other than {a} {i} {u} {e} {é} and {o} is phonetic with special conditions.
  
-|Sound (in IPA) |Letter |English equivalent |Indonesia equivalent |
-|---|---|---|---|
-|/a/<br> |Aa Áá Ää<br> |A as in Father<br> |A as in Aku<br> |
-|/i/<br> |Ii<br> |EE as in See<br> |I as in Ikan<br> |
-|/u/<br> |Uu<br> |OO as in Pool<br> |U as in Uang<br> |
-|/e/<br> |Ee<br> |E as in Red<br> |E as in Bebek<br> |
-|/ə/<br> |Éé (Ea’ ea’)<br> |A as in Comma<br> |E as in Senin<br> |
-|/o/<br> |Oo<br> |O as in Owe<br> |O as in Nol<br> |
+|Sound (in IPA) |Proper Latin Letter |Alternate Latin Letters |English equivalent |Indonesia equivalent |
+|---|---|---|---|---|
+|/a/<br> |Aa Áá Ää<br> |Áá = 'a<br> Ää = a'a<br> |A as in Father<br> |A as in Aku<br> |
+|/i/<br> |Ii<br> |-|EE as in See<br> |I as in Ikan<br> |
+|/u/<br> |Uu<br> |-|OO as in Pool<br> |U as in Uang<br> |
+|/e/<br> |Ee<br> |-|E as in Red<br> |E as in Bebek<br> |
+|/ə/<br> |Éé<br> |Éé = ea'<br> |A as in Comma<br> |E as in Senin<br> |
+|/o/<br> |Oo<br> |-|O as in Owe<br> |O as in Nol<br> |
 ## Stress
 
 ---
@@ -74,7 +74,7 @@ Corsa has 7 word classes + 1 additional class. where each word class has a funct
 
 |Class / Part of speech |Function |
 |---|---|
-|Noun<br> |A naming word. It can be the name of a thing, place, person, animal or feeling/Qualities/Ideas (Source: <br> |
+|Noun<br> |A naming word. It can be the name of a thing, place, person, animal or feeling/Qualities/Ideas|
 |Verb<br> |A part of speech that describes the action, state, or description of what is happening<br> |
 |Adjective<br> |A word that explains or describes a noun.<br>(normally describes size, physical form (color, age, texture, material), origin, purpose/function)<br> |
 |Adverb<br> |A word that modifies a Verb or adjective, serves to make the word more precise.<br> |
@@ -100,16 +100,16 @@ In theory, Conjunctions and Adpositions can be between or across word groups dep
 
 Corsa has 7 independent interrogatives and few dependent interrogatives + 2 informal interrogatives.
 
-|Question |Answer |function |
-|---|---|---|
-|Rao (what)<br> |Klega (the one, is the, etc)<br> |provide general information (depending on the context)<br> |
-|Raoshun (why)<br> |Shun (because)<br> |provide answers about cause-and-effect questions<br> |
-|Raozalka (who)<br> |zalka (the {subject}, by the, it is the {subject}<br> |provide answers about who is the subject or performer of something<br> |
-|Raora (where)<br>Raoárs (from where)<br>Raodra (to where)<br> |Ra (in, on, at)<br>Ars (it came from)<br>Dra (it goes to)<br> |provide answers about the location and its relationship to the object<br> |
-|Raogits (how)<br> |gits [part of grammar that indicates the sentence is the process of what is being asked]<br> |gives an answer about the process or reason for something (context dependent)<br> |
-|Raonets (how much/many)<br> |nets (as much as, as many as, etc)<br> |gives an answer about the number of things<br> |
-|Rao Rao+{posesive} {informal}<br> |Klega<br> |asked back what the questioner had asked.<br> |
-|Raoneo (which one) {informal}<br> |Klega<br> |ask specifically what is being asked when the request in context has more than one possibility(depending on context)<br> |
+|Question |Equivalent Question Meaning |Answer |Equivalent Answer Meaning |function |
+|---|---|---|---|---|
+|Rao<br> |what<br> |Klega<br> |the, the one, is the, etc<br> |provide general information (depending on the context)<br> |
+|Raoshun<br> |why<br> |Shun<br> |because, as the result of, the reason is, etc<br> |provide answers about cause-and-effect questions<br> |
+|Raozalka<br> |who<br> |zalka<br> |the {subject}, by {subject}, it is the {subject}<br>context dependent<br> |provide answers about who is the subject or performer of something<br> |
+|Raora<br>Raoárs<br>Raodra<br> |where<br>from where<br>to where<br> |Ra<br>Ars<br>Dra<br> |in, on, at<br>it came from<br>it goes to<br> |provide answers about the location and its relationship to the object<br> |
+|Raogits<br> |how<br> |gits<br> |{part of grammar that indicates the sentence is the process of what is being asked}<br> |gives an answer about the process or reason for something (context dependent)<br> |
+|Raonets<br> |how much, how many<br> |nets<br> |as much as, as many as, etc<br> |gives an answer about the number of things<br> |
+|Rao Rao+{posesive} {informal}<br> |What the hell is that? {in a family friendly context}<br>| Klega<br> |the, it is the, the one, etc<br> |asked back what the questioner had asked.<br> |
+|Raoneo {informal}<br> |which one<br> |Klega<br> |the,the one<br> |ask specifically what is being asked when the request in context has more than one possibility(depending on context)<br> |
 ## Pronouns and Possessive
 
 ---
