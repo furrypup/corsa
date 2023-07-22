@@ -22,20 +22,20 @@
  
 |Sound (in IPA) |Letter |English equivalent |Indonesia equivalent |
 |---|---|---|---|
-|/b/<br> |Bb<br> |b as in bed<br> |b as in Bukit<br> |
-|/d/<br> |Dd<br> |d as in day<br> |d as in dapur<br> |
-|/f/<br> |Ff<br> |f as in effort<br> |f as in Fajar<br> |
-|/g/<br> |Gg<br> |g as in gain<br> |g as in gaji<br> |
-|/k/<br> |Cc<br> |k as in karma<br> |k as in kaca<br> |
-|/l/<br> |Ll Łł<br> |l as in else<br> |l as in lari<br> |
-|/m/<br> |Mm<br> |m as in empty<br> |m as in mama<br> |
-|/n/<br> |Nn<br> |n as in energy<br> |n as in nenek<br> |
-|/p/<br> |Pp<br> |p as in pet<br> |p as in papah<br> |
-|/r/<br> |Rr<br> |Spanish rr as in puerro<br> |r as in Rumah<br> |
-|/s/<br> |Ss<br> |s as in establish<br> |s as in Salah<br> |
-|/t/<br> |Tt<br> |t as in text<br> |t as in tulis<br> |
-|/z/<br> |Zz<br> |z as in zebra<br> |z as in zat<br> |
-|/ʧ/<br> |Ch Čč<br> |ch as in check<br> |c as in cicak<br> |
+|/b/<br> |Bb<br> |B as in Bed<br> |B as in Bukit<br> |
+|/d/<br> |Dd<br> |D as in Day<br> |D as in Dapur<br> |
+|/f/<br> |Ff<br> |F as in Effort<br> |F as in Fajar<br> |
+|/g/<br> |Gg<br> |G as in Gain<br> |G as in Gaji<br> |
+|/k/<br> |Cc<br> |K as in Karma<br> |K as in Kaca<br> |
+|/l/<br> |Ll Łł<br> |L as in Else<br> |L as in Lari<br> |
+|/m/<br> |Mm<br> |M as in Empty<br> |M as in Mama<br> |
+|/n/<br> |Nn<br> |N as in Energy<br> |N as in Nenek<br> |
+|/p/<br> |Pp<br> |P as in Pet<br> |P as in papah<br> |
+|/r/<br> |Rr<br> |Spanish rr as in Puerro<br> |R as in Rumah<br> |
+|/s/<br> |Ss<br> |S as in Establish<br> |S as in Salah<br> |
+|/t/<br> |Tt<br> |T as in Text<br> |T as in Tulis<br> |
+|/z/<br> |Zz<br> |Z as in Zebra<br> |Z as in Zat<br> |
+|/ʧ/<br> |Ch Čč<br> |CH as in Check<br> |C as in Cicak<br> |
 ## Vowels
 
 ---
@@ -50,12 +50,12 @@
  
 |Sound (in IPA) |Letter |English equivalent |Indonesia equivalent |
 |---|---|---|---|
-|/a/<br> |Aa Áá Ää<br> |A as in fAther<br> |A as in Aku<br> |
-|/i/<br> |Ii<br> |ee as in see<br> |I as in Ikan<br> |
-|/u/<br> |Uu<br> |oo as in pool<br> |U as in Uang<br> |
-|/e/<br> |Ee<br> |e as in red<br> |E as in Bebek<br> |
+|/a/<br> |Aa Áá Ää<br> |A as in Father<br> |A as in Aku<br> |
+|/i/<br> |Ii<br> |EE as in See<br> |I as in Ikan<br> |
+|/u/<br> |Uu<br> |OO as in Pool<br> |U as in Uang<br> |
+|/e/<br> |Ee<br> |E as in Red<br> |E as in Bebek<br> |
 |/ə/<br> |Éé (Ea’ ea’)<br> |A as in Comma<br> |E as in Senin<br> |
-|/o/<br> |Oo<br> |o as in owe<br> |O as in nol<br> |
+|/o/<br> |Oo<br> |O as in Owe<br> |O as in Nol<br> |
 ## Stress
 
 ---
@@ -75,13 +75,13 @@ Corsa has 7 word classes + 1 additional class. where each word class has a funct
 |Class / Part of speech |Function |
 |---|---|
 |Noun<br> |A naming word. It can be the name of a thing, place, person, animal or feeling/Qualities/Ideas (Source: <br> |
-|Verb<br> |a part of speech that describes the action, state, or description of what is happening<br> |
-|Adjective<br> |a word that explains or describes a noun.<br>(normally describes size, physical form (color, age, texture, material), origin, purpose/function)<br> |
-|Adverb<br> |a word that modifies a Verb or adjective, serves to make the word more precise.<br> |
+|Verb<br> |A part of speech that describes the action, state, or description of what is happening<br> |
+|Adjective<br> |A word that explains or describes a noun.<br>(normally describes size, physical form (color, age, texture, material), origin, purpose/function)<br> |
+|Adverb<br> |A word that modifies a Verb or adjective, serves to make the word more precise.<br> |
 |Pronoun<br> |Noun substitute<br> |
 |Preposition and <br>post-position.<br>A.K.A Adpositions<br> |express spatial or temporal relationships between words (such as location or part of/purpose of something)<br> |
-|Conjunction<br> |words that connect sentences or ideas<br> |
-|Interjection (additional)<br> |a word that has a meaning beyond its original meaning with the function of expressing something else.<br> |
+|Conjunction<br> |Words that connect sentences or ideas<br> |
+|Interjection (additional)<br> |A word that has a meaning beyond its original meaning with the function of expressing something else.<br> |
 
 pronouns in this class refer to nouns as the subject or the object in the sentence.
 
@@ -144,9 +144,8 @@ Pronoun + possessive
 
 If the pronoun or name ends in a vowel, it uses the {-ä} variation, if it ends in a consonant it uses the {-á} variation, if it starts with a name, the Allative will not vary.
 
-|From / to | | | | | | | | | | | | |
+|From / to |1st Singular |1st Plural (EX) |1st Plural (IN) |2nd Singular (M) |2nd Singular (F) |2nd Singular (N) |2nd Plural |3rd Singular (M) |3rd Singular (F) |3rd Singular (N) |3rd Plural |Name |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| |1st’s<br> |1st’p’EX<br> |1st’p’iN<br> |2nd’s’M<br> |2nd’s’F<br> |2nd’s’N<br> |2nd’p<br> |3rd’s’M<br> |3rd’s’F<br> |3rd’s’N<br> |3rd’p<br> |name<br> |
 |1st Singular<br> |Trä<br> |Trära<br> |Trälra<br> |Träs<br> |Träs<br> |Träl<br> |Träsa<br> |Träl<br> |Träl<br> |Träl<br> |Träla<br> |X<br> |
 |1st Plural (EX)<br> |Trakkä<br> |Trakkära<br> |Trakkälra<br> |Trakkäs<br> |Trakkäs<br> |Trakkäl<br> |Trakkäsa<br> |Trakkäl<br> |Trakkäl<br> |Trakkäl<br> |Trakkäla<br> |X<br> |
 |1st Plural (IN)<br> |Trassä<br> |Trassära<br> |Trassälra<br> |Trassäs<br> |Trassäs<br> |Trassäl<br> |Trassäsa<br> |Trassäl<br> |Trassäl<br> |Trassäl<br> |Trassäla<br> |X<br> |
