@@ -1,7 +1,7 @@
 # Tacarsa Corsa (Ra Eng)
 
 ---
-
+> This page is simply a copy of top-level README.md, for future planned release please visit our [Roadmap](https://github.com/idfp/corsa/blob/main/first_release/Roadmap.md)
 ## Corsa phonology
 
 ### Consonants
