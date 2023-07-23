@@ -39,4 +39,4 @@
     - [ ] picking new workplace
     - [ ] finding new mirror for publication 
         - [ ] Skiff pages (18 july 2023)
-        - [ ] Github (20 July 2023)
+        - [X] Github (20 July 2023)
