@@ -35,7 +35,7 @@
 - [ ] Improving English translations (Optional) 
 - [ ] Improving Indonesian translations (Optional) 
 - [ ] reformat and/or move platform to make the book (priority)
-    - [ ] choosing a new format
+    - [X] choosing a new format (format will use serif fonts with enlarged)
     - [ ] picking new workplace
     - [ ] finding new mirror for publication 
         - [ ] Skiff pages (18 july 2023)
